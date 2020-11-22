@@ -1,5 +1,7 @@
 # Pdf
 
+Cria a pasta chamada Plugin  dentro de APP e dentro de Plugin pasta chamada Pdf cola todos esses arquivos la
+
 Plugin do Make Pdf para Cakephp Apps
 
 ## Instalação
